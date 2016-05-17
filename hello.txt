@@ -1,1 +1,5 @@
 Git test
+<<<<<<< HEAD:hello.txt
+=======
+Github modify
+>>>>>>> 7b040a6d6138760b0308d853c8b06083a0faad09:hello.txt
